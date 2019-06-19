@@ -1,0 +1,8 @@
+		.page 			{border: 1px solid black;text-align: center;background-color: #6c757d;height: 600px}
+		.question-area	{border: 3px double green;width: 100%;margin: 5px auto 5px auto;background-color: white;word-spacing: 0.2em;}
+		.left-align 	{text-align: left;width: 80%;margin: 2px auto 2px auto;padding-top:20px;font-size: 20px;}
+		h1 				{font-size: 40px;}
+		p 				{font-size: 18px;padding-top: 100px;}
+		#next 			{background-color: #6c757d;width: 80px;height:25px;font-size: 15px;color: white;padding-bottom :30px}
+		#next:hover 	{background-color: rgb(0,0,180);}
+		#timer 			{text-align: right;font-size: 18px;padding-right: 5px;}
